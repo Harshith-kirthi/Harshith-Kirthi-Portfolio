@@ -42,8 +42,8 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
-    github: "https://github.com/yourusername/ecommerce-site",
-    live: "https://ecommerce.example.com"
+    github: "https://github.com/Harshith-kirthi/Harshith-Kirthi-Portfolio",
+    live: "https://harshithkirthi.vercel.app"
   },
   {
     title: "T20 WorldCup Analysis 2022",
